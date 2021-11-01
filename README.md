@@ -9,7 +9,7 @@ I am interested in Web & Mobile App Development.
 
 ---
 ### 📫 Reach Me
-<a href="jonathan.sampurna@gmail.com">
+<a href="mailto:jonathan.sampurna@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/jonathanevansampurna/">

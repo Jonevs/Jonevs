@@ -1,11 +1,11 @@
-### Hello, World! 👋
+### Hello, World! 🌏 👋
 ---
 ### 🧑🏻‍💻 About Me
 My name is Jonathan Evan Sampurna.
 
 I am a third-year student at Binus University, majoring in Computer Science. 
 
-I am interested in Web & Mobile App Development. 
+I am interested in Web Development. 
 
 ---
 ### 📫 Reach Me
@@ -18,6 +18,13 @@ I am interested in Web & Mobile App Development.
 <a href="https://www.hackerrank.com/Jonevs">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
+
+---
+### 💼 Currently Focus On Learning
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 ### 📈 GitHub Analytics

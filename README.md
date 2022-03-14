@@ -21,8 +21,8 @@ I am interested in Web Development.
 
 ---
 ### 💼 Currently Focus On Learning
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
 ### 📈 GitHub Analytics

@@ -2,9 +2,9 @@
 ---
 
 ### 🧑🏻‍💻 About Me
-const <b>Name</b> = "Jonathan Evan Sampurna";
+Name = Jonathan Evan Sampurna
 
-let <b>Status</b> = ["Third-year Computer Science Student", "Web Developer Intern"];
+Status = Undergraduate Computer Science Student, Web Developer
 
 ---
 

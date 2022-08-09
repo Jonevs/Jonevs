@@ -1,14 +1,26 @@
-### < HelloWorld! 🌏 > 
----
-
-### 🧑🏻‍💻 About Me
-Name = Jonathan Evan Sampurna
-
-Status = Undergraduate Computer Science Student, Web Developer
+<details>
+<summary> <h1>🌏 < HelloWorld! /></h1></summary>
 
 ---
 
-### 📫 Reach Me
+### 🧑🏻‍💻 < About Me />
+---
+👋 Hi! I'm Jonevs - Jonathan Evan S.
+
+🇮🇩 Based on Indonesia. 
+
+🎓 Undergraduate Computer Science Student @Binus University.
+
+💼 Web Developer Intern @Kalbe Farma.
+
+🤓 Passionate in Full Stack Web Development.
+
+---
+
+### 📫 < Reach Me />
+---
+🌐 Personal Website: <b>(under development)</b>
+
 <a href="mailto:jonathan.sampurna@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -22,4 +34,32 @@ Status = Undergraduate Computer Science Student, Web Developer
 </a>
 
 ---
-### < /HelloWorld! 🌏 > 
+
+### ✏️ < Main Tools />
+---
+#### Languages
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+
+#### Frameworks & Libraries
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+
+#### Databases
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
+---
+
+### 📈 < Github Stats />
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=Jonevs&show_icons=true&layout=compact&theme=prussian) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonevs&layout=compact&theme=prussian)](https://github.com/Jonevs)
+
+
+</details>
+
+
+

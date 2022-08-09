@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
 #### Databases
@@ -54,9 +55,11 @@
 
 ### 📈 < Github Stats />
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=Jonevs&show_icons=true&layout=compact&theme=prussian) 
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=Jonevs&show_icons=true&layout=compact&theme=vue) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonevs&layout=compact&theme=prussian)](https://github.com/Jonevs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonevs&layout=compact&theme=vue)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonevs&theme=vue)
 
 
 </details>

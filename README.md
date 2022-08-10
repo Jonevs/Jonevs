@@ -33,9 +33,8 @@
 <a href="https://www.hackerrank.com/Jonevs">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
-<br><br/>
 
-🌐 Personal Website: <b>(under development)</b>
+<h4>🌐 Personal Website <b>(under development)</b> </h4> 
 
 <br>
 

@@ -3,7 +3,7 @@
 
 ---
 
-### 🧑🏻‍💻 < About Me />
+### 🧑🏻‍💻 < AboutMe />
 ---
 👋 Hi! I'm Jonevs - Jonathan Evan S.
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 📫 < Reach Me />
+### 📫 < ReachMe />
 ---
 
 <a href="mailto:jonathan.sampurna@gmail.com">
@@ -41,7 +41,7 @@
 
 ---
 
-### ✏️ < Main Tools />
+### ✏️ < MainTools />
 ---
 #### Languages
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -60,7 +60,7 @@
 
 ---
 
-### 📈 < Github Stats />
+### 📈 < GithubStats />
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=Jonevs&show_icons=true&layout=compact&theme=vue) 
 

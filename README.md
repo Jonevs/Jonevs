@@ -7,7 +7,7 @@
 ---
 👋 Hi! I'm Jonevs - Jonathan Evan S.
 
-🇮🇩 Based on Indonesia. 
+🇮🇩 Based in Indonesia. 
 
 🎓 Undergraduate Computer Science Student @Binus University.
 

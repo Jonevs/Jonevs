@@ -15,11 +15,12 @@
 
 🤓 Passionate in Full Stack Web Development.
 
+<br>
+
 ---
 
 ### 📫 < Reach Me />
 ---
-🌐 Personal Website: <b>(under development)</b>
 
 <a href="mailto:jonathan.sampurna@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -32,6 +33,11 @@
 <a href="https://www.hackerrank.com/Jonevs">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
+<br><br/>
+
+🌐 Personal Website: <b>(under development)</b>
+
+<br>
 
 ---
 
@@ -50,6 +56,8 @@
 #### Databases
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
+<br><br/>
+
 ---
 
 ### 📈 < Github Stats />
@@ -59,7 +67,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonevs&layout=compact&theme=vue)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonevs&theme=vue)
-
 
 </details>
 

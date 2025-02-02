@@ -2,7 +2,7 @@
 <summary> <h2>Hello! 🙋‍♂️</h2></summary>
 
 ---
-I'm Jonathan Evan, a computer science graduate and currenly working as a programmer with 2 years of professional experience in web development. I have a passion for continuous personal development and professional growth in this field. 📈
+I'm Jonathan Evan, a computer science graduate and currenly working as a programmer with 2 years of professional experience in web development. I have a passion for continuous growth in this field. 📈
 <br><br>Feel free to reach me! 🙂
 
 <a href="https://www.hackerrank.com/Jonevs">

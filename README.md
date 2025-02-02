@@ -1,71 +1,44 @@
 <details>
-<summary> <h1>🌏 < HelloWorld! /></h1></summary>
+<summary> <h2>Hello! 🙋‍♂️</h2></summary>
 
 ---
-
-### 🧑🏻‍💻 < AboutMe />
----
-👋 Hi! I'm Jonevs - Jonathan Evan S.
-
-🇮🇩 Based in Indonesia. 
-
-🎓 Undergraduate Computer Science Student @Binus University.
-
-💼 Web Developer Intern @Kalbe Farma.
-
-🤓 Passionate in Full Stack Web Development.
-
-<br>
-
----
-
-### 📫 < ReachMe />
----
-
-<a href="mailto:jonathan.sampurna@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/jonathanevansampurna/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+I'm Jonathan Evan, a computer science graduate and currenly working as a programmer with 2 years of professional experience in web development. I have a passion for continuous personal development and professional growth in this field. 📈
+<br><br>Feel free to reach me! 🙂
 
 <a href="https://www.hackerrank.com/Jonevs">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white">
 </a>
 
-<h4>🌐 Personal Website <b>(under development)</b> </h4> 
+---
+#### Main Programming Languages
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
 
-<br>
+#### Current Tech Stack
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
 
 ---
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Jonevs&show_icons=true&layout=compact&theme=onedark&hide_border=true" alt="GitHub Stats" height="200" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonevs&theme=onedark&hide_border=true" alt="GitHub Streak" height="200" />
+</div>
 
-### ✏️ < MainTools />
----
-#### Languages
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonevs&theme=onedark" alt="Repositories by Language" height="200" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonevs&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" height="200" />
+</div>
 
-#### Frameworks & Libraries
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-
-#### Databases
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
-<br><br/>
-
----
-
-### 📈 < GithubStats />
----
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=Jonevs&show_icons=true&layout=compact&theme=vue) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonevs&layout=compact&theme=vue)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonevs&theme=vue)
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonevs&theme=tokyonight" alt="Profile Summary" />
+</div>
 
 </details>
 

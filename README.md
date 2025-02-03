@@ -22,9 +22,9 @@ I'm Jonathan Evan, a computer science graduate and currenly working as a program
 
 ---
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Jonevs&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=Jonevs&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonevs&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonevs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
 ---
